@@ -5,7 +5,9 @@
 "tecnología", "Internet", "software", "web", "redes", etc y que mayormente se utilizan en el idioma inglés-
 - Comprender la documentación técnica en español.
 - Ampliar mi vocabulario y manejo de conceptos para realmente entender lo que estoy haciendo y por qué lo estoy haciendo.
-- Allanar el camino que la brecha idiomatica que se antepone a los y las estudiantes de todo lo relacionado con "tecnología", "Internet", "software", "web", "redes", etc
+- Allanar el camino que la brecha idiomatica antepone a los y las estudiantes de todo lo relacionado con "tecnología", "Internet", "software", "web", "redes", etc.
+- Porque incialmente, como todo en la vida, aprender sobre tecnología, en particular, no siempre es fácil de asimilar en el primer paso y más si eres una persona autodidacta que no tiene formación previa en estos temas.
+
 -------------------------------------------------------------------------------
 ## A
 -------------------------------------------------------------------------------
@@ -20,6 +22,18 @@ Tienes que utilizar lo que se requiere para poder usar esa API
 Si requieres AOUTH authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis
 
 -------------------------------------------------------------------------------
+## F
+-------------------------------------------------------------------------------
+- Framework : Marco de trabajo
+
+
+
+-------------------------------------------------------------------------------
+## T
+-------------------------------------------------------------------------------
+- Third-party
+
+-------------------------------------------------------------------------------
 ## O
 -------------------------------------------------------------------------------
 - Open source : Término que originalmente hacía referencia al software open source 
@@ -30,3 +44,4 @@ Utiliza los valores y la producción *descentralizada* del software open source 
 modificar y distribuir el código de la forma que consideren conveniente. 
 Este software se desarrolla de manera descentralizada y colaborativa, por lo tanto, depende de la revisión de los compañeros
 y la producción de la comunidad
+
