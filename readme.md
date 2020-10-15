@@ -23,4 +23,10 @@ Si requieres AOUTH authentication, etc, cada plataforma te dará las indicacione
 ## O
 -------------------------------------------------------------------------------
 - Open source : Término que originalmente hacía referencia al software open source 
-(OSS)
+(OSS). Se ha convertido en un movimiento y una forma de trabajo que trasciende la producción del software.
+Utiliza los valores y la producción *descentralizada* del software open source para *hallar nuevas maneras de solucionar problemas de las comunidades y los sectores*
+
+- OSS : (Open source software) código diseñado de manera que sea accesiblea al *público*, es decir, que todos pueden ver,
+modificar y distribuir el código de la forma que consideren conveniente. 
+Este software se desarrolla de manera descentralizada y colaborativa, por lo tanto, depende de la revisión de los compañeros
+y la producción de la comunidad
