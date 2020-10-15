@@ -1,11 +1,11 @@
 # Diccionario 
 
 ## Objetivo
-- Recopilar y definir términos que se utilizan de manera coloquial dentro del mundo de lo que implica 
-"tecnología", "Internet", "software", "web", "redes", etc
-- Comprender la documentación técnica.
-- Ampliar mi vocabulario y manejo de conceptos para realmente entender lo que estoy haciendo y por qué lo estoy haciendo
-
+- Recopilar y definir términos, en español, que se utilizan de manera coloquial dentro del mundo de lo que implica 
+"tecnología", "Internet", "software", "web", "redes", etc y que mayormente se utilizan en el idioma inglés-
+- Comprender la documentación técnica en español.
+- Ampliar mi vocabulario y manejo de conceptos para realmente entender lo que estoy haciendo y por qué lo estoy haciendo.
+- Allanar el camino que la brecha idiomatica que se antepone a los y las estudiantes de todo lo relacionado con "tecnología", "Internet", "software", "web", "redes", etc
 -------------------------------------------------------------------------------
 ## A
 -------------------------------------------------------------------------------
@@ -19,3 +19,8 @@ Por ejm, si programas en PHP pero la Api de facebook está en python, entonces t
 Tienes que utilizar lo que se requiere para poder usar esa API 
 Si requieres AOUTH authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis
 
+-------------------------------------------------------------------------------
+## O
+-------------------------------------------------------------------------------
+- Open source : Término que originalmente hacía referencia al software open source 
+(OSS)
