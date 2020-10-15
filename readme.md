@@ -27,6 +27,11 @@ Si requieres AOUTH authentication, etc, cada plataforma te dará las indicacione
 - Framework : Marco de trabajo
 
 
+-------------------------------------------------------------------------------
+## H
+-------------------------------------------------------------------------------
+- Host: Entidad que recibe invitados en su entorno, dominio. En una red informática, ordenador al que 
+están conectados otros
 
 -------------------------------------------------------------------------------
 ## T
