@@ -22,6 +22,20 @@ Por ejm, si programas en PHP pero la Api de facebook está en python, entonces t
 Tienes que utilizar lo que se requiere para poder usar esa API 
 Si requieres AOUTH authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis
 
+
+
+--------------------------------------------------------------------------------
+## C
+--------------------------------------------------------------------------------
+
+- Cuenta de google: Es una cuenta de usuario que permite acceder a servicios de propiedad e google.
+Al crear una cuenta de google se crea automáticamente una cuenta de correo electrónico (gmail).
+La configuración de la cuenta se almacena en un lugar pero muchas aplicaciones pueden almacenar sus propios ajustes de esa cuenta
+
+
+
+
+
 -------------------------------------------------------------------------------
 ## F
 -------------------------------------------------------------------------------
