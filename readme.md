@@ -72,6 +72,17 @@ y la producción de la comunidad
 *Desde la perspectiva de las desarrolladoras y desarrolladores  de aplicaciones web, móviles, escritorio, aplicaciones js o basadas en el navegador* `OAuth`es una forma de acceder a datos protegidos desde una aplicación, es más seguro que pedir a los usuarios que inicien sesión con contraseñas.
 *Desde la perspectiva de las desarrolladores y desarrolladores de APIS* si estás apoyando aplicaciones web, móbiles, apis del lado del servidor o mashups, utiliza OAuth para permitir que los desarrolladores y desarrolladoras de aplicaciones accedan de forma segura a los datos de sus usuarios sin que estos tengan que compartir sus contraseñas.
 
+
+-------------------------------------------------------------------------------
+## S
+-------------------------------------------------------------------------------
+
+- Static assets : Recursos estáticos, recursos que no cambian; carpeta en donde se guardan recursos como imagenes o videos.
+
+
+
+
+
 -------------------------------------------------------------------------------
 ## M
 -------------------------------------------------------------------------------
