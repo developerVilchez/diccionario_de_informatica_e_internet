@@ -40,6 +40,8 @@ La configuración de la cuenta se almacena en un lugar pero muchas aplicaciones 
 ## F
 -------------------------------------------------------------------------------
 - Framework : Marco de trabajo
+- Frontend: Son las partes de una pagina web con las que un visitante puede
+interactuar y ver
 
 
 -------------------------------------------------------------------------------
