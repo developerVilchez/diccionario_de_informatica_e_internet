@@ -32,6 +32,10 @@ Si requieres AOUTH authentication, etc, cada plataforma te dará las indicacione
 Al crear una cuenta de google se crea automáticamente una cuenta de correo electrónico (gmail).
 La configuración de la cuenta se almacena en un lugar pero muchas aplicaciones pueden almacenar sus propios ajustes de esa cuenta
 
+- Cliente : En el caso de un sitio web, se trata del navegador, pero en otro contexto,
+un cliente puede ser otra aplicación, un dispositivo movil o un dispositivo inteligente.
+Elemento de un sistema informático que envía peticiones al servidor para que este realice para él ciertas funciones.
+Un proceso, como por ejemplo, un programa o tarea que solicita un servicio proporcionado por otro programa. El proceso cliente utiliza el servicio solicitado sin tener que `saber` ninguno de los detalles de trabajo sobre el otro programa o el propio servicio.
 
 
 
@@ -41,7 +45,7 @@ La configuración de la cuenta se almacena en un lugar pero muchas aplicaciones 
 -------------------------------------------------------------------------------
 - Framework : Marco de trabajo
 - Frontend: Son las partes de una pagina web con las que un visitante puede
-interactuar y ver
+interactuar y ver.
 
 
 -------------------------------------------------------------------------------
@@ -78,6 +82,9 @@ y la producción de la comunidad
 -------------------------------------------------------------------------------
 
 - Static assets : Recursos estáticos, recursos que no cambian; carpeta en donde se guardan recursos como imagenes o videos.
+
+- Servicio: Utilidad de algo para un fin o para el desempeño de una tarea o función.
+En relación con programación y software, se denomina servicio a un programa o rutina que da soporte a otros programas, particularmente a bajo nivel(cercano al hardware)
 
 
 
