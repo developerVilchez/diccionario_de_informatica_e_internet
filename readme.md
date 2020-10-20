@@ -80,8 +80,10 @@ y la producción de la comunidad
 ## P
 -------------------------------------------------------------------------------
 - Protocolo : Conjunto de normas y procedimientos necesarios para la transmisión de datos
-que debe ser seguido tanto por el emisor como por el receptor
+que debe ser seguido tanto por el emisor como por el receptor.
 
+- Pagina web estática: página plana o estacionaria, es una pagina web que se entrega al navegador del usuario exactamente como está almacenada, por lo tanto, muestra la misma información para todos los usuarios, de todos los contextos.
+Son adecuadas para contenidos que nunca o rara vez necesitan ser actualizados. Actualmente se utilizan `generadores de sitios estáticos`
 
 -------------------------------------------------------------------------------
 ## S
