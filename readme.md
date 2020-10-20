@@ -15,7 +15,7 @@
 
 - Autenticacion : Acto o proceso de confirmar que algo o alguien es quien dice ser.
 El que se identifica se le dice `probador` el que verifica la identidad `verificador`
-`probador` usuario que quiere acceder a ciertos recursos el `verificador` sistema que protege el acceso a dichos recursos y tiene que verificar que el que accede sea un usuario que tiene permisos para acceder a dichos recursos. Tienes autenticación por credenciales, multifactor etc.
+`probador` usuario que quiere acceder a ciertos recursos el `verificador` sistema que protege el acceso a dichos recursos y tiene que verificar que el que accede sea un usuario que tiene permisos para acceder a dichos recursos. Tienes autenticación por credenciales, multifactor, OAuth etc.
 
 - Autorización : Consentimiento para la realización de algo. Proceso que protege los recursos de una aplicación permitiendo que solo sean usados por aquellos `consumidores` a los que se les ha concedido autorización para ello. 
 
@@ -84,7 +84,7 @@ Este software se desarrolla de manera descentralizada y colaborativa, por lo tan
 y la producción de la comunidad
 
 
-- OAuth : Protocolo open source que permite la *autorización segura*  a través de un método simple y estándar desde aplicaciones web, móviles y de escritorio. 
+- OAuth : Protocolo de autorización estandar, open source, que proporciona flujos de autorización específicos para aplicaciones web, aplicaciones de escritorio, teléfonos móviles y dispositivos de sala de estar (televisión).
 *Desde la perspectiva de las desarrolladoras y desarrolladores  de aplicaciones web, móviles, escritorio, aplicaciones js o basadas en el navegador* `OAuth`es una forma de acceder a datos protegidos desde una aplicación, es más seguro que pedir a los usuarios que inicien sesión con contraseñas.
 *Desde la perspectiva de las desarrolladores y desarrolladores de APIS* si estás apoyando aplicaciones web, móbiles, apis del lado del servidor o mashups, utiliza OAuth para permitir que los desarrolladores y desarrolladoras de aplicaciones accedan de forma segura a los datos de sus usuarios sin que estos tengan que compartir sus contraseñas.
 
