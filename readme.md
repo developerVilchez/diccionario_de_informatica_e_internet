@@ -82,8 +82,9 @@ y la producción de la comunidad
 - Protocolo : Conjunto de normas y procedimientos necesarios para la transmisión de datos
 que debe ser seguido tanto por el emisor como por el receptor.
 
-- Pagina web estática: página plana o estacionaria, es una pagina web que se entrega al navegador del usuario exactamente como está almacenada, por lo tanto, muestra la misma información para todos los usuarios, de todos los contextos.
-Son adecuadas para contenidos que nunca o rara vez necesitan ser actualizados. Actualmente se utilizan `generadores de sitios estáticos`
+- Pagina web estática: El contenido no depende de quién lo visualice ni en qué momento lo haga, siempre será el mismo. 
+`Página plana o estacionaria`, es una pagina web que se entrega al navegador del usuario exactamente como está almacenada, por lo tanto, muestra `la misma información` para todos los usuarios, de todos los contextos.
+Estática no quiere decir que no sea interactiva. Por ejemplo un sitio web estático puede ser una buena opción para un sitio web personal simple con una breve biografía. Sin embargo, un usuario que navega por Twitter o facebook debe acceder a contenido nuevo a medida que se solicita y que un sitio web estatico no podría ofrecer.
 
 -------------------------------------------------------------------------------
 ## S
