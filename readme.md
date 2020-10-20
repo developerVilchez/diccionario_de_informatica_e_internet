@@ -17,6 +17,7 @@
 El que se identifica se le dice `probador` el que verifica la identidad `verificador`
 `probador` usuario que quiere acceder a ciertos recursos el `verificador` sistema que protege el acceso a dichos recursos y tiene que verificar que el que accede sea un usuario que tiene permisos para acceder a dichos recursos. Tienes autenticación por credenciales, multifactor etc.
 
+- Autorización : Consentimiento para la realización de algo. Proceso que protege los recursos de una aplicación permitiendo que solo sean usados por aquellos `consumidores` a los que se les ha concedido autorización para ello. 
 
 - API : Interfaz de programación de aplicaciones, conjunto de definiciones y protocolos que se utilizan para desarrollar e integrar el software de las aplicaciones. Permiten que sus productos y servicios se comuniquen con otras aplicaciones , sin necesidad de saber cómo están implementados.
 
