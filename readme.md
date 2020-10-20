@@ -13,16 +13,14 @@
 ## A
 -------------------------------------------------------------------------------
 
-- API : Es la manera en como tu aplicación conversa con otra aplicación.
- Aplication programming interfaces, es la manera en que las pltaformar online (twitter-facebook-youtube ) le dan 
-a las aplicaciones de terceros maneras seguras de interactuar con sus plataformas para compartir información.
-No hay un estandar, cada compañia define la manera en que tienes que conversar con sus apis, con qué lenguaje, bajo que forma
-Es importante entender que cuando te conectas a estos servicios online, tienes que hacer lo que la documentación de las APIS te piden hacer para poder interactuar con ellas
-Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python 
-Tienes que utilizar lo que se requiere para poder usar esa API 
-Si requieres OAuth authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis.
+- API : Interfaz de programación de aplicaciones, conjunto de definiciones y protocolos que se utilizan para desarrollar e integrar el software de las aplicaciones. Permiten que sus productos y servicios se comuniquen con otras aplicaciones , sin necesidad de saber cómo están implementados.
 
-- API web : Colección de formas predefinidas o reglas para interactuar con los datos de una aplicación web, a menudo a través de un ciclo de solicitud-respuesta HTTP indicando la manera en cómo le gustaría interactuar con los datos de un aplicación web (crear nuevos datos, leer datos existentes, actualizar datos existentes, eliminar, etc) y recibe algunos datos como respuesta.
+
+- API web : Colección de formas predefinidas o reglas para interactuar con los datos de una aplicación web, a menudo a través de un ciclo de solicitud-respuesta HTTP indicando la manera en cómo le gustaría interactuar con los datos de un aplicación web (crear nuevos datos, leer datos existentes, actualizar datos existentes, eliminar, etc) y recibe algunos datos como respuesta. Las hay públicas y privadas.
+No hay un estandar, cada compañia define la manera en que tienes que conversar con sus apis, con qué lenguaje, bajo que forma, etc.
+Es importante entender que cuando te conectas a estos servicios online, tienes que hacer lo que la documentación de las APIS te piden hacer para poder interactuar con ellas
+Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python.
+
 
 
 - Aplicación web: Herramientas que los usuarios pueden utilizar accediendo a un `servidor web` a través de `internet` o una `intranet` mediante un navegador. Es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
