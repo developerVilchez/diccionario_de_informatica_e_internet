@@ -20,7 +20,9 @@ No hay un estandar, cada compañia define la manera en que tienes que conversar 
 Es importante entender que cuando te conectas a estos servicios online, tienes que hacer lo que la documentación de las APIS te piden hacer para poder interactuar con ellas
 Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python 
 Tienes que utilizar lo que se requiere para poder usar esa API 
-Si requieres OAuth authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis
+Si requieres OAuth authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis.
+
+- API web : Colección de formas predefinidas o reglas para interactuar con los datos de una aplicación web, a menudo a través de un ciclo de solicitud-respuesta HTTP indicando la manera en cómo le gustaría interactuar con los datos de un aplicación web (crear nuevos datos, leer datos existentes, actualizar datos existentes, eliminar, etc) y recibe algunos datos como respuesta.
 
 
 - Aplicación web: Herramientas que los usuarios pueden utilizar accediendo a un `servidor web` a través de `internet` o una `intranet` mediante un navegador. Es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
@@ -115,3 +117,4 @@ En relación con programación y software, se denomina servicio a un programa o 
 
 - Mashup: En el desarrollo web, es una página o aplicación web que utiliza contenido de más de un recurso para crear un único servicio nuevo que se muestra en una única interfaz gráfica. La principal caracteristica de un `mashup` es la combinación, la visualización y la agregación. Es importante hacer que los datos existentes sean más útiles, para uso personal y profesional.
 Para poder acceder permanentemente a los datos de otros servicios, los mashups son generalmente aplicaciones clientes o alojados en línea.
+
