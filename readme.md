@@ -112,7 +112,7 @@ Estática no quiere decir que no sea interactiva. Por ejemplo un sitio web está
 En relación con programación y software, se denomina servicio a un programa o rutina que da soporte a otros programas, particularmente a bajo nivel(cercano al hardware)
 
 
-
+- Stack : La colección de tecnologías para crear el frontend y el backend de una aplicación web. De aquí viene el termino fullstack. por ejemplo, MEAN (Mongo, express, angular y node), LAMP (Linux, apache, MySQL, PHP)
 
 
 -------------------------------------------------------------------------------
