@@ -38,6 +38,9 @@ Elemento de un sistema informático que envía peticiones al servidor para que e
 Un proceso, como por ejemplo, un programa o tarea que solicita un servicio proporcionado por otro programa. El proceso cliente utiliza el servicio solicitado sin tener que `saber` ninguno de los detalles de trabajo sobre el otro programa o el propio servicio.
 
 
+- Contenido dinámico : En el contexto de internet, y concretamente referido a la www, `contenido dinámico` es aquel que se genera automaticamente en el momento que alguien solicita su visualización, por tanto, puede cambiar dependiendo de quién lo solicite o en que momento lo haga. Entiéndase como  `contenido` a textos, imagenes, videos, ficheros descargables, etc. Que forman parte de una página web.
+
+
 
 
 -------------------------------------------------------------------------------
