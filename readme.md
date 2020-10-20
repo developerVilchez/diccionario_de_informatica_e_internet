@@ -20,8 +20,11 @@ No hay un estandar, cada compañia define la manera en que tienes que conversar 
 Es importante entender que cuando te conectas a estos servicios online, tienes que hacer lo que la documentación de las APIS te piden hacer para poder interactuar con ellas
 Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python 
 Tienes que utilizar lo que se requiere para poder usar esa API 
-Si requieres AOUTH authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis
+Si requieres OAuth authentication, etc, cada plataforma te dará las indicaciones que debes seguir para que puedas utilizar sus apis
 
+
+- Aplicación web: Herramientas que los usuarios pueden utilizar accediendo a un `servidor web` a través de `internet` o una `intranet` mediante un navegador. Es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
+Son populares debido a lo práctico del navegador web como `cliente ligero` independiente del sistema operativo, te ofrece la facilidad para actualizar y mantener aplicaciones web sin distribuir e instalar softwarea miles de usuarios potenciales, solo necesitan un navegador e internet.
 
 
 --------------------------------------------------------------------------------
@@ -85,9 +88,13 @@ y la producción de la comunidad
 - Protocolo : Conjunto de normas y procedimientos necesarios para la transmisión de datos
 que debe ser seguido tanto por el emisor como por el receptor.
 
-- Pagina web estática: El contenido no depende de quién lo visualice ni en qué momento lo haga, siempre será el mismo. 
+- Página web estática: El contenido no depende de quién lo visualice ni en qué momento lo haga, siempre será el mismo. 
 `Página plana o estacionaria`, es una pagina web que se entrega al navegador del usuario exactamente como está almacenada, por lo tanto, muestra `la misma información` para todos los usuarios, de todos los contextos.
 Estática no quiere decir que no sea interactiva. Por ejemplo un sitio web estático puede ser una buena opción para un sitio web personal simple con una breve biografía. Sin embargo, un usuario que navega por Twitter o facebook debe acceder a contenido nuevo a medida que se solicita y que un sitio web estatico no podría ofrecer.
+
+- Página web dinámicas: Están creadas en algún `lenguaje interpretado`. Aquí la web interactúa con el usuario y es necesario que componga las páginas de manera dinámica. Por ejemplo, cuando un usuario busca determinados productos, la aplicación realiza una consulta a su base de datos, obtiene los resultados y compone con ellos "sobre la marcha" el HTML que corresponde a la lista de los productos. Una vez compuesto dinámicamente el HTML de la página entera, se devuelve al navegador exactamente igual que si hubiese sido una página HTML estática.
+
+
 
 -------------------------------------------------------------------------------
 ## S
