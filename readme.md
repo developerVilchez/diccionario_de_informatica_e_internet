@@ -16,10 +16,10 @@
 - API : Interfaz de programación de aplicaciones, conjunto de definiciones y protocolos que se utilizan para desarrollar e integrar el software de las aplicaciones. Permiten que sus productos y servicios se comuniquen con otras aplicaciones , sin necesidad de saber cómo están implementados.
 
 
-- API web : Colección de formas predefinidas o reglas para interactuar con los datos de una aplicación web, a menudo a través de un ciclo de solicitud-respuesta HTTP indicando la manera en cómo le gustaría interactuar con los datos de un aplicación web (crear nuevos datos, leer datos existentes, actualizar datos existentes, eliminar, etc) y recibe algunos datos como respuesta. Las hay públicas y privadas.
+- API web : Colección de formas predefinidas o reglas para interactuar con los datos de una aplicación web, que pueden estar almacenada en una base de datos, a menudo a través de un ciclo de solicitud-respuesta HTTP indicando la acción que le gustaría ejercer con los datos de dicha aplicación (crear nuevos datos, leer datos existentes, actualizar datos existentes, eliminar, etc) y recibe algunos datos como respuesta, para ello se establece la correlación entre la acción a realizar sobre la data(operaciones crud) y un verbo del protocolo http(get, post, update, delete, patch)
 No hay un estandar, cada compañia define la manera en que tienes que conversar con sus apis, con qué lenguaje, bajo que forma, etc.
 Es importante entender que cuando te conectas a estos servicios online, tienes que hacer lo que la documentación de las APIS te piden hacer para poder interactuar con ellas
-Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python.
+Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python. Las hay públicas y privadas.
 
 
 
