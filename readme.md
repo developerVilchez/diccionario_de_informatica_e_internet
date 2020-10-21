@@ -76,7 +76,8 @@ están conectados otros
 -------------------------------------------------------------------------------
 ## M
 -------------------------------------------------------------------------------
-- Middleware: Es un software, es lógica de intercambio de información entre aplicaciones, es la goma,
+- Middleware: Software que se encuentra entre 2 o más tipos de software y traduce información entre ellos.
+ Es un software, es lógica de intercambio de información entre aplicaciones, es la goma,
 es un canal por donde pasa datos entre las aplicaciones. La administración de datos, los servicios de aplicaciones, 
 la mensajería, autenticación, y la administración de API se maneja comunmente como middleware.
 
