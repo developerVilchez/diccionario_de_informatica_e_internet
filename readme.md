@@ -132,8 +132,11 @@ En relación con programación y software, se denomina servicio a un programa o 
 
 - Stack : La colección de tecnologías para crear el frontend y el backend de una aplicación web. De aquí viene el termino fullstack. por ejemplo, MEAN (Mongo, express, angular y node), LAMP (Linux, apache, MySQL, PHP)
 
-- Serializar
+- Serializar:
 
+- Sesión de usuario:
+
+- Stream
 
 -------------------------------------------------------------------------------
 ## M
@@ -142,3 +145,4 @@ En relación con programación y software, se denomina servicio a un programa o 
 - Mashup: En el desarrollo web, es una página o aplicación web que utiliza contenido de más de un recurso para crear un único servicio nuevo que se muestra en una única interfaz gráfica. La principal caracteristica de un `mashup` es la combinación, la visualización y la agregación. Es importante hacer que los datos existentes sean más útiles, para uso personal y profesional.
 Para poder acceder permanentemente a los datos de otros servicios, los mashups son generalmente aplicaciones clientes o alojados en línea.
 
+- Middleware
