@@ -32,7 +32,7 @@ No hay un estandar, cada compañia define la manera en que tienes que conversar 
 Es importante entender que cuando te conectas a estos servicios online, tienes que hacer lo que la documentación de las APIS te piden hacer para poder interactuar con ellas
 Por ejm, si programas en PHP pero la Api de facebook está en python, entonces tienes que aprende python. Las hay públicas y privadas.
 
-
+- AKA : Abreviación para el término `Also known as`
 
 - Aplicación web: Herramientas que los usuarios pueden utilizar accediendo a un `servidor web` a través de `internet` o una `intranet` mediante un navegador. Es un programa que se codifica en un lenguaje interpretable por los navegadores web en la que se confía la ejecución al navegador.
 Son populares debido a lo práctico del navegador web como `cliente ligero` independiente del sistema operativo, te ofrece la facilidad para actualizar y mantener aplicaciones web sin distribuir e instalar softwarea miles de usuarios potenciales, solo necesitan un navegador e internet.
@@ -58,6 +58,8 @@ Un proceso, como por ejemplo, un programa o tarea que solicita un servicio propo
 - Cookie :
 
 - Compilador:
+
+- Crud : Son las cuatro funciones básicas del almacenamiento persistente las cuales son: Creas, recuperar(leer), actualizar y eliminar. Se utilizan, a veces, para describir las convenciones de la interfaz de usuario que facilitan la visualización, la búsqueda y el cambio de información, a menudo mediante formularios e informes basados en computadoras. 
 
 --------------------------------------------------------------------------------
 ## D
