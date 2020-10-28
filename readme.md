@@ -138,6 +138,11 @@ En relación con programación y software, se denomina servicio a un programa o 
 
 - Stream
 
+- Servidor web : Es generalmente cualquier programa de servidor que sirve contenido utilizando los protocolos http(o https). Estos servidores tienden a escuchar en puertos específicos (80 0 443) a los clientes(navegadores web) a través del protocolo tcp/ip de internet. Ejemplo : Apache, Microsoft IIS, express-node
+
+
+- Servidor de aplicaciones : Es un termino difuso (impreciso y poco claro). Podría referirse a cualquier programa que proporcione respuestas a las solicitudes de los clientes para una aplicación determinada....seguir investigando
+
 -------------------------------------------------------------------------------
 ## M
 -------------------------------------------------------------------------------
