@@ -92,7 +92,9 @@ la mensajería, autenticación, y la administración de API se maneja comunmente
 -------------------------------------------------------------------------------
 ## O
 -------------------------------------------------------------------------------
-- Open source : Término que originalmente hacía referencia al software open source 
+- Open source (fuente abierta) : Se refiere a recursos de acceso público y que por ello, cualquiera puede modificar y compartir 
+
+Término que originalmente hacía referencia al software open source 
 (OSS). Se ha convertido en un movimiento y una forma de trabajo que trasciende la producción del software.
 Utiliza los valores y la producción *descentralizada* del software open source para *hallar nuevas maneras de solucionar problemas de las comunidades y los sectores*
 
