@@ -1,5 +1,10 @@
 # Diccionario 
 
+- La palabra que se define se llama **entrada**
+- Cada una de las distintas definiciones que encontramos de una entrada se denominan **acepciones**
+- Una **acepción** es cada uno de los significados o sentidos que tiene una palabra o frase según
+el contexto en el que se usen.
+
 ## Objetivo
 - Recopilar y definir términos, en español, que se utilizan de manera coloquial dentro del mundo de lo que implica 
 "tecnología", "Internet", "software", "web", "redes", etc y que mayormente se consumen en el idioma inglés (computer industry jargon)
