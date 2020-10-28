@@ -52,6 +52,7 @@ Un proceso, como por ejemplo, un programa o tarea que solicita un servicio propo
 
 - Cookie :
 
+- Compilador:
 
 --------------------------------------------------------------------------------
 ## D
@@ -74,11 +75,25 @@ interactuar y ver.
 - Host: Entidad que recibe invitados en su entorno, dominio. En una red informática, ordenador al que 
 están conectados otros
 
+- Hardware
+
+
+-------------------------------------------------------------------------------
+## I
+-------------------------------------------------------------------------------
+- Intérprete:
+
 -------------------------------------------------------------------------------
 ## T
 -------------------------------------------------------------------------------
 - Third-party
 
+
+-------------------------------------------------------------------------------
+## L
+-------------------------------------------------------------------------------
+- Lenguaje de programación : Es software, que permite a las programadoras y programadores, desarrollar programas. 
+Cualquier lenguaje artificial utilizado para definir una secuencia de instrucciones que la computadora podrá, finalmente, procesar y ejecutar. Su uso permite que otro programa especial llamada **compilador** traduzca de manera automática el código escrito por los desarrolladores y desarrolladoras al código máquina, que es el lenguaje que utiliza la computadora para poder trabajar.
 
 
 -------------------------------------------------------------------------------
@@ -145,6 +160,17 @@ En relación con programación y software, se denomina servicio a un programa o 
 
 - Servidor de aplicaciones : Es un termino difuso (impreciso y poco claro). Podría referirse a cualquier programa que proporcione respuestas a las solicitudes de los clientes para una aplicación determinada....seguir investigando
 
+- Software: Es el producto en `ingeniería de software`. Es el soporte lógico de un `sistema informático`, comprende los componentes lógicos necesarios que hacen posible la realización de tareas específicas. Son programas informáticos, instrucciones que hacen funcionar el hardware. Dos de los principales tipos de software son **software del sistema - sistemas operativos** y **software de aplicaciones**
+
+- Software del sistema: Controla los trabajos ejecutados sobre una computadora
+
+- Software de aplicaciones : Realizan las tareas que justifican el uso de las computadoras, por ejemplo, procesadores de texto, hojas de cálculo y base de datos.
+
+- Software de red : Que permite la intercomunicación entre un grupo de computadoras 
+
+- Sistemas operativos : Véase software del sistema; Software, que básicamente permite al resto de los programas funcionar adecuadamente, facilitando también la interacción entre los componentes físicos(hardware) y el resto de las aplicaciones y **proporcionando una interfaz con el usuario**
+
+
 -------------------------------------------------------------------------------
 ## M
 -------------------------------------------------------------------------------
@@ -153,3 +179,8 @@ En relación con programación y software, se denomina servicio a un programa o 
 Para poder acceder permanentemente a los datos de otros servicios, los mashups son generalmente aplicaciones clientes o alojados en línea.
 
 - Middleware
+
+-------------------------------------------------------------------------------
+## U
+-------------------------------------------------------------------------------
+- Usuario : Que usa ordinariamente algo o que tiene derecho a hacer uso de ello.
