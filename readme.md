@@ -177,6 +177,13 @@ En relación con programación y software, se denomina servicio a un programa o 
 
 - Sistemas operativos : Véase software del sistema; Software, que básicamente permite al resto de los programas funcionar adecuadamente, facilitando también la interacción entre los componentes físicos(hardware) y el resto de las aplicaciones y **proporcionando una interfaz con el usuario**
 
+- Statement (instrucción)
+
+
+-------------------------------------------------------------------------------
+## T
+-------------------------------------------------------------------------------
+- Transpilar : 
 
 -------------------------------------------------------------------------------
 ## M
